@@ -1,0 +1,95 @@
+body{
+
+    background-color: #fbf4f9;
+    color: #45454d;
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px
+ }
+
+
+h1 {
+    color: #e4a3d4;
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 900;
+
+}
+
+h2 {color: #45454d;
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 17px
+    font-weight: 600;
+}
+
+
+a {
+    text-decoration: none;
+    color: #6600A1;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+a :hover {
+    color: black;
+}
+
+
+.container {
+    width: 800px;
+    margin: 40px auto;
+}
+
+.container {
+    width : 700px;
+}
+
+
+.card-white {
+    background-color: #f6e5f5;
+    padding: 40px;
+    box-shadow: 0 10px 30px rgba(0.0.0. 0,3);
+    margin: 20px 0px;  
+    border-radius: 5px;
+    text-align: center;
+}
+
+.img-circle {
+    border-radius : 45%;
+}
+   
+.btn-blue {
+    background-color: #6600A1;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.btn-blue:hover {
+    background-color: black;
+    color: white ;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
+}
+
+.list-inline i {
+    font-size: 60px;
+    color: rgb (230, 230, 230);
+}
+
+.list-inline i:hover {
+    color: black;
+}
+
+#introduction p {
+margin-bottom: 40px;  
+}
+
+
